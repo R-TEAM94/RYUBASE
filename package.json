@@ -10,6 +10,10 @@
     "test": "node main",
     "start": "node main.js"
   },
+  "keywords": {
+    "Base",
+    "Basebotwa"
+  },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
     "async": "^3.2.0",
