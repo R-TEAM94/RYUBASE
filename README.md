@@ -7,8 +7,7 @@
 <a href="#"><img title="RYUBOTZ BASE" src="https://img.shields.io/badge/RYUBOTZ BASE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt/Hisoka-Morou"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/FBOTZ-YT/RyuBotzMD"><img title="Recode" src="https://img.shields.io/badge/Recode-RyuukaTeam-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/R-TEAM94/RYUBASE"><img title="Author" src="https://img.shields.io/badge/Author-Ryuuka-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/R-TEAM94/RYUBASE"><img title="Followers" src="https://img.shields.io/github/followers/R-TEAM94?color=blue&style=flat-square"></a>
